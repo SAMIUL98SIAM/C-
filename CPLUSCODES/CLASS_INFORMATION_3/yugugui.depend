@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545758165 source:c:\users\siam\desktop\code\yugugui\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

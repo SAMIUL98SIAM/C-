@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551659676 source:c:\users\siam\desktop\code\stack mid\main.cpp
+	<iostream>
+
+1552127740 source:c:\users\siam\desktop\code\circular queue mid\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+

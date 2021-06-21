@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1546767055 source:c:\users\siam\desktop\code\stackk\main.cpp
+	<iostream>
+	<conio.h>
+
+1567995609 source:d:\aiub\c++ programming\stackk\main.cpp
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+

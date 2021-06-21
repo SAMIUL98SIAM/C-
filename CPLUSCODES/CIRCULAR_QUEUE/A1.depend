@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558865509 source:c:\users\siam\desktop\code\a1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1563084910 source:e:\aiub\c++ programming\a1\main.cpp
+	<iostream>
+

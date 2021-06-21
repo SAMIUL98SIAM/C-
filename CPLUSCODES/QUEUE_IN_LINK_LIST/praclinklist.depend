@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558867842 source:c:\users\siam\desktop\code\praclinklist\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1570287630 source:d:\aiub\c++ programming\code_blocks\queue_in_link_list\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

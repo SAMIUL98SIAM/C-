@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553939039 source:c:\users\siam\desktop\code\basicll2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

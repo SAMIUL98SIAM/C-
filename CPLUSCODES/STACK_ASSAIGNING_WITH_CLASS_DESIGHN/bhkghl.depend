@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547488083 source:c:\users\siam\desktop\code\bhkghl\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+

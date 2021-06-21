@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551681602 source:c:\users\siam\desktop\code\pointer mid\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

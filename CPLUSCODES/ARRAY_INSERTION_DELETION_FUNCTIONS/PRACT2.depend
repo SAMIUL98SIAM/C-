@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551403612 source:c:\users\siam\desktop\code\pract2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

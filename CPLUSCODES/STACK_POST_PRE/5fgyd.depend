@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550135990 source:c:\users\siam\desktop\code\5fgyd\main.cpp
+	<iostream>
+
+1559031867 source:c:\users\siam\desktop\code\stack post pre\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

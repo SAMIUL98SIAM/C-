@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558585619 source:c:\users\siam\desktop\code\depression\main.cpp
+	<iostream>
+
+1566871573 source:d:\aiub\c++ programming\depression\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

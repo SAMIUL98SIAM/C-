@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548946328 source:c:\users\siam\desktop\code\hvk\main.cpp
+	<iostream>
+	<conio.h>
+
+1569613986 source:d:\aiub\c++ programming\code_blocks\array_insertion_deletion_with_asaigning\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+

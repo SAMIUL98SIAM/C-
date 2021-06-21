@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571490879 source:d:\aiub\c++ programming\code_blocks\merge_sort\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

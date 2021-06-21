@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570300993 source:d:\aiub\c++ programming\code_blocks\m_s\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

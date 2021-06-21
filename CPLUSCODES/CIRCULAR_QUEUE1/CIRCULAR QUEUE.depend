@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561946040 source:e:\aiub\c++ programming\circular queue\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

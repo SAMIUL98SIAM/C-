@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550238134 source:c:\users\siam\desktop\code\sty\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542812091 source:c:\movies\cse\new\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1542812446 source:d:\aiub\c++ programming\code_blocks\class_constructor_distructor\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547545275 source:c:\users\siam\desktop\c++\queue siam\main.cpp
+	<iostream>
+	<conio.h>
+

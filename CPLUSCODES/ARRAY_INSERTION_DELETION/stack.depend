@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558769920 source:c:\users\siam\desktop\code\stack\main.cpp
+	<iostream>
+	<conio.h>
+

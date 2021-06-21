@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544254931 source:c:\users\siam\desktop\code\tempc++\main.cpp
+	<iostream>
+
+1570808030 source:d:\aiub\c++ programming\code_blocks\vector_in_c++\main.cpp
+	<vector>
+	<iostream>
+

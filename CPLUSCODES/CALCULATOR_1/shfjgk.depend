@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1546854885 source:c:\users\siam\desktop\code\shfjgk\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1548007961 source:c:\users\siam\desktop\c++\calculator 1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558510903 source:c:\users\siam\desktop\code\bst\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1562368092 source:e:\aiub\c++ programming\bst\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+

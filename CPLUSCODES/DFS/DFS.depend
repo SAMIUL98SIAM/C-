@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576164676 source:d:\aiub\c++ programming\code_blocks\dfs\main.cpp
+	<conio.h>
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
