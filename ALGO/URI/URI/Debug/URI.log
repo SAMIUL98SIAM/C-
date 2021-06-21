@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\URI\URI\Source.cpp(10): error C4700: uninitialized local variable 'N' used

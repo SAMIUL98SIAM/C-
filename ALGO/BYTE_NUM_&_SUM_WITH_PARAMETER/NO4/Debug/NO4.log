@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\NO4\NO4\Source.cpp(25,19): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  NO4.vcxproj -> D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\NO4\Debug\NO4.exe

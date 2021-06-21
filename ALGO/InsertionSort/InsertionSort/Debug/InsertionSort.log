@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\InsertionSort\InsertionSort\Source.cpp(11): error C4700:  uninitialized local variable 'j' used
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\InsertionSort\InsertionSort\Source.cpp(41): error C4700:  uninitialized local variable 'A' used

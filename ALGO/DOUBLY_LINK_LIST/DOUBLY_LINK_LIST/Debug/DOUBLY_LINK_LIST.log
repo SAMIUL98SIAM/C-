@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\DOUBLY_LINK_LIST\DOUBLY_LINK_LIST\Source.cpp(68): error C4716: 'f_insert': must return a value
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\DOUBLY_LINK_LIST\DOUBLY_LINK_LIST\Source.cpp(93): error C4716: 'm_n_l_insert': must return a value
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\DOUBLY_LINK_LIST\DOUBLY_LINK_LIST\Source.cpp(38): error C4716: 'createnode': must return a value
+D:\AIUB\C++ PROGRAMMING\VISUAL STUDIO FOR PRACTICE\DOUBLY_LINK_LIST\DOUBLY_LINK_LIST\Source.cpp(32): error C4703: potentially uninitialized local pointer variable 'curr' used
